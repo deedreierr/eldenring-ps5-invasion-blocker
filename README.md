@@ -121,3 +121,4 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 - Thanks to the OpenWrt community
 - GL.iNet for their router firmware
 - All contributors and testers
+- No thanks to make intruders an integral part of the game design :-/
