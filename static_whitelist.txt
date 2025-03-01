@@ -1,0 +1,6 @@
+# Statische Whitelist für PS5 Invasionsschutz
+# Format: Nur IP-Adressen (OHNE Port), eine IP pro Zeile
+# Diese IPs werden niemals blockiert, unabhängig vom Port
+# Kommentare beginnen mit einer Raute (#)
+# Beispiel:
+# 44.226.16.109
